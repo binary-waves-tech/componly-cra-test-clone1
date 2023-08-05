@@ -1,10 +1,1 @@
-{
-  "url": "http://localhost:3000",
-  "projectType": "react",
-  "designTokenGlobs": ["**/src/design-token.ts"],
-  "clientName": "Test client",
-  "staticDomain": "http://localhost:3000",
-  "projectID": "componly-cra-test",
-  "codebaseID": "f47f7313-6d56-4f9a-b931-4621d44dd811",
-  "project": "."
-}
+{"codebaseID":"51ff5cd8-dbad-48b1-8258-70066f4713bc","projectID":"84543ece-b0f8-49ce-9c31-12e8e60bd4b1","url":"http://localhost:3000","projectType":"react","designTokenGlobs":["**/src/design-token.ts"],"clientName":"Test client","staticDomain":"http://localhost:3000","project":"./"}
